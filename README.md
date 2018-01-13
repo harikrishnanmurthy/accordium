@@ -1,12 +1,14 @@
 # Spring-boot elasticsearch autocomplete example
 
+![](https://github.com/harikrishnanmurthy/accordium/blob/master/demo.gif)
+
 ## Home Page
-http://localhost:8080/
-demo page
+- http://localhost:8080/
+- demo page
 
 ## REST API
-http://localhost:8080/suggestion?searchstr=jeffrey
-returns the list of books written by this author
+- http://localhost:8080/suggestion?searchstr=jeffrey
+- returns the list of books written by this author
 
 ## Technology Stack
 - spring boot v1.5.3 (https://projects.spring.io/spring-boot/)
