@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-boot-elastic-autocomplete
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: harikrishnanmurthy
+Implementation-Vendor-Id: spring-boot-elastic-autocomplete
+Build-Jdk: 1.8.0_65
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-
+ elastic-autocomplete/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

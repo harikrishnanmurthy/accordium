@@ -1,0 +1,1200 @@
+{"create":{"_index":"list", "_type":"books", "_id": "1"}}
+{"author":"SamSykes","series":"TheAeon'sGate","name":"TomeoftheUndergates"}
+{"create":{"_index":"list", "_type":"books", "_id": "2"}}
+{"author":"KarlMarlantes","series":"","name":"Matterhorn:ANoveloftheVietnamWar"}
+{"create":{"_index":"list", "_type":"books", "_id": "3"}}
+{"author":"M.T.Mustian","series":"","name":"TheGendarme"}
+{"create":{"_index":"list", "_type":"books", "_id": "4"}}
+{"author":"JoshuaCorin","series":"","name":"WhileGalileoPreys"}
+{"create":{"_index":"list", "_type":"books", "_id": "5"}}
+{"author":"MarkGreaney","series":"Grayman","name":"OnTarget"}
+{"create":{"_index":"list", "_type":"books", "_id": "6"}}
+{"author":"CameronDean","series":"CandaceSteeleVampireKiller","name":"EternalHunger"}
+{"create":{"_index":"list", "_type":"books", "_id": "7"}}
+{"author":"MarkGreaney","series":"","name":"TheGrayMan"}
+{"create":{"_index":"list", "_type":"books", "_id": "8"}}
+{"author":"KevinPurdy","series":"","name":"TheCompleteAndroidGuide"}
+{"create":{"_index":"list", "_type":"books", "_id": "9"}}
+{"author":"RobertSpiller","series":"","name":"TheWitchofAgnesi"}
+{"create":{"_index":"list", "_type":"books", "_id": "10"}}
+{"author":"HanyaYanagihara","series":"","name":"ALittleLife"}
+{"create":{"_index":"list", "_type":"books", "_id": "11"}}
+{"author":"MercedesLackey","series":"DragonJousters","name":"Alta"}
+{"create":{"_index":"list", "_type":"books", "_id": "12"}}
+{"author":"StephenieMeyer","series":"","name":"TheShortSecondLifeofBreeTanner:AnEclipseNovella"}
+{"create":{"_index":"list", "_type":"books", "_id": "13"}}
+{"author":"StephenieMeyer","series":"TwilightSaga","name":"BreakingDawn"}
+{"create":{"_index":"list", "_type":"books", "_id": "14"}}
+{"author":"StephenieMeyer","series":"TwilightSaga","name":"Twilight"}
+{"create":{"_index":"list", "_type":"books", "_id": "15"}}
+{"author":"StephenieMeyer","series":"TwilightSaga","name":"NewMoon"}
+{"create":{"_index":"list", "_type":"books", "_id": "16"}}
+{"author":"StephenieMeyer","series":"TwilightSaga","name":"Eclipse"}
+{"create":{"_index":"list", "_type":"books", "_id": "17"}}
+{"author":"StephenieMeyer","series":"","name":"TheHost:ANovel"}
+{"create":{"_index":"list", "_type":"books", "_id": "18"}}
+{"author":"HannahReed","series":"","name":"BuzzOff"}
+{"create":{"_index":"list", "_type":"books", "_id": "19"}}
+{"author":"KristenLandon","series":"","name":"TheLimit"}
+{"create":{"_index":"list", "_type":"books", "_id": "20"}}
+{"author":"GailCaldwell","series":"","name":"Let'sTaketheLongWayHome:AMemoirofFriendship"}
+{"create":{"_index":"list", "_type":"books", "_id": "21"}}
+{"author":"KevinM.White","series":"","name":"AppleTrainingSeries:MacOSXSupportEssentialsv10.6"}
+{"create":{"_index":"list", "_type":"books", "_id": "22"}}
+{"author":"GordRollo","series":"","name":"TheJigsawMan"}
+{"create":{"_index":"list", "_type":"books", "_id": "23"}}
+{"author":"NeilGaiman;TerryPratchett","series":"","name":"GoodOmens:TheNiceandAccuratePropheciesofAgnesNutter,Witch"}
+{"create":{"_index":"list", "_type":"books", "_id": "24"}}
+{"author":"JeffreyArcher","series":"","name":"PathsofGlory"}
+{"create":{"_index":"list", "_type":"books", "_id": "25"}}
+{"author":"JeffreyArcher","series":"","name":"BeCarefulWhatYouWishFor(TheCliftonChronicles)"}
+{"create":{"_index":"list", "_type":"books", "_id": "26"}}
+{"author":"JeffreyArcher","series":"","name":"OnlyTimeWillTell(CliftonChronicles)"}
+{"create":{"_index":"list", "_type":"books", "_id": "27"}}
+{"author":"AndyMcNab","series":"NickStone","name":"RemoteControl"}
+{"create":{"_index":"list", "_type":"books", "_id": "28"}}
+{"author":"AndyMcNab","series":"NickStone","name":"ExitWound"}
+{"create":{"_index":"list", "_type":"books", "_id": "29"}}
+{"author":"AndyMcNab","series":"","name":"LastNightAnotherSoldier..."}
+{"create":{"_index":"list", "_type":"books", "_id": "30"}}
+{"author":"AndyMcNab","series":"","name":"TheGreyMan"}
+{"create":{"_index":"list", "_type":"books", "_id": "31"}}
+{"author":"AndyMcNab","series":"","name":"DarkWinter"}
+{"create":{"_index":"list", "_type":"books", "_id": "32"}}
+{"author":"AndyMcNab","series":"","name":"ImmediateAction"}
+{"create":{"_index":"list", "_type":"books", "_id": "33"}}
+{"author":"AndyMcNab","series":"NickStone","name":"CrisisFour"}
+{"create":{"_index":"list", "_type":"books", "_id": "34"}}
+{"author":"AndyMcNab&RobertRigby","series":"BoySoldier","name":"Meltdown"}
+{"create":{"_index":"list", "_type":"books", "_id": "35"}}
+{"author":"AndyMcNab","series":"NickStone","name":"CrossFire"}
+{"create":{"_index":"list", "_type":"books", "_id": "36"}}
+{"author":"AndyMcNab","series":"","name":"SevenTroop"}
+{"create":{"_index":"list", "_type":"books", "_id": "37"}}
+{"author":"AndyMcNab","series":"","name":"SpokenfromtheFront"}
+{"create":{"_index":"list", "_type":"books", "_id": "38"}}
+{"author":"AndyMcNab","series":"NickStone","name":"Liberationday"}
+{"create":{"_index":"list", "_type":"books", "_id": "39"}}
+{"author":"AndyMcNab","series":"","name":"DropZone"}
+{"create":{"_index":"list", "_type":"books", "_id": "40"}}
+{"author":"AndyMcNab&RobertRigby","series":"BoySoldier","name":"Boysoldier"}
+{"create":{"_index":"list", "_type":"books", "_id": "41"}}
+{"author":"AndyMcNab","series":"NickStone","name":"ZeroHour"}
+{"create":{"_index":"list", "_type":"books", "_id": "42"}}
+{"author":"AndyMcNab","series":"NickStone","name":"LastLight"}
+{"create":{"_index":"list", "_type":"books", "_id": "43"}}
+{"author":"AndyMcNab","series":"","name":"Bravotwozero"}
+{"create":{"_index":"list", "_type":"books", "_id": "44"}}
+{"author":"AndyMcNab","series":"","name":"WarTorn"}
+{"create":{"_index":"list", "_type":"books", "_id": "45"}}
+{"author":"AndyMcNab","series":"NickStone","name":"Aggressor"}
+{"create":{"_index":"list", "_type":"books", "_id": "46"}}
+{"author":"AndyMcNab&RobertRigby","series":"BoySoldier","name":"Payback"}
+{"create":{"_index":"list", "_type":"books", "_id": "47"}}
+{"author":"AndyMcNab","series":"NickStone","name":"BruteForce"}
+{"create":{"_index":"list", "_type":"books", "_id": "48"}}
+{"author":"AndyMcNab","series":"","name":"Avenger"}
+{"create":{"_index":"list", "_type":"books", "_id": "49"}}
+{"author":"AndyMcNab","series":"NickStone","name":"Firewall"}
+{"create":{"_index":"list", "_type":"books", "_id": "50"}}
+{"author":"JustinKramon","series":"","name":"Finny"}
+{"create":{"_index":"list", "_type":"books", "_id": "51"}}
+{"author":"EmmaDonoghue","series":"","name":"TheSealedLetter"}
+{"create":{"_index":"list", "_type":"books", "_id": "52"}}
+{"author":"OliverBowden","series":"","name":"Renaissance"}
+{"create":{"_index":"list", "_type":"books", "_id": "53"}}
+{"author":"BarryUnsworth","series":"","name":"LandofMarvels"}
+{"create":{"_index":"list", "_type":"books", "_id": "54"}}
+{"author":"LisaDrayer","series":"","name":"TheBeautyDiet:LookingGreatHasNeverBeenSoDelicious"}
+{"create":{"_index":"list", "_type":"books", "_id": "55"}}
+{"author":"GeraldBiss","series":"","name":"TheDooroftheUnreal"}
+{"create":{"_index":"list", "_type":"books", "_id": "56"}}
+{"author":"NancyOrtberg","series":"","name":"UnleashingthePowerofRubberBands:LessonsinNon-LinearLeadership"}
+{"create":{"_index":"list", "_type":"books", "_id": "57"}}
+{"author":"JaneGreen","series":"","name":"DuneRoad"}
+{"create":{"_index":"list", "_type":"books", "_id": "58"}}
+{"author":"JaneGreen","series":"","name":"Babyville"}
+{"create":{"_index":"list", "_type":"books", "_id": "59"}}
+{"author":"KateFurnivall","series":"","name":"TheRussianConcubine"}
+{"create":{"_index":"list", "_type":"books", "_id": "60"}}
+{"author":"KateFurnivall","series":"TheRussianConcubine","name":"TheConcubine'sSecret"}
+{"create":{"_index":"list", "_type":"books", "_id": "61"}}
+{"author":"KateFurnivall","series":"","name":"UnderaBloodRedSky"}
+{"create":{"_index":"list", "_type":"books", "_id": "62"}}
+{"author":"GeorgeBishop","series":"","name":"LettertoMyDaughter:ANovel"}
+{"create":{"_index":"list", "_type":"books", "_id": "63"}}
+{"author":"ErnestE.Rothman&BrianJepson&RichRosen","series":"","name":"MacOSXforUnixGeeks"}
+{"create":{"_index":"list", "_type":"books", "_id": "64"}}
+{"author":"PeterM.Senge","series":"","name":"TheFifthDiscipline:TheArtandPracticeoftheLearningOrganization:Firstedition(Centurybusiness)"}
+{"create":{"_index":"list", "_type":"books", "_id": "65"}}
+{"author":"ChelseaHandler","series":"","name":"ChelseaChelseaBangBang"}
+{"create":{"_index":"list", "_type":"books", "_id": "66"}}
+{"author":"ChelseaHandler","series":"","name":"MyHorizontalLife:ACollectionofOne-NightStands"}
+{"create":{"_index":"list", "_type":"books", "_id": "67"}}
+{"author":"ChelseaHandler","series":"","name":"AreYouThere,Vodka?It'sMe,Chelsea"}
+{"create":{"_index":"list", "_type":"books", "_id": "68"}}
+{"author":"KatherinePaterson","series":"","name":"BridgetoTerabithia"}
+{"create":{"_index":"list", "_type":"books", "_id": "69"}}
+{"author":"JuanGomezJurado","series":"","name":"ContractWithGod"}
+{"create":{"_index":"list", "_type":"books", "_id": "70"}}
+{"author":"PaulMelko","series":"","name":"TheWallsoftheUniverse"}
+{"create":{"_index":"list", "_type":"books", "_id": "71"}}
+{"author":"TomKratman","series":"PatrickCarrera","name":"ADesertCalledPeace"}
+{"create":{"_index":"list", "_type":"books", "_id": "72"}}
+{"author":"TomKratman","series":"","name":"Astateofdisobedience"}
+{"create":{"_index":"list", "_type":"books", "_id": "73"}}
+{"author":"TomKratman","series":"PatrickCarrera","name":"Carnifex"}
+{"create":{"_index":"list", "_type":"books", "_id": "74"}}
+{"author":"TomKratman","series":"PatrickCarrera","name":"TheLotusEaters"}
+{"create":{"_index":"list", "_type":"books", "_id": "75"}}
+{"author":"TomKratman","series":"","name":"Countdown:TheLiberators"}
+{"create":{"_index":"list", "_type":"books", "_id": "76"}}
+{"author":"TomKratman","series":"","name":"Caliphate"}
+{"create":{"_index":"list", "_type":"books", "_id": "77"}}
+{"author":"IanMcEwan","series":"","name":"Atonement:anovel"}
+{"create":{"_index":"list", "_type":"books", "_id": "78"}}
+{"author":"IanMcEwan","series":"","name":"Solar"}
+{"create":{"_index":"list", "_type":"books", "_id": "79"}}
+{"author":"IanMcEwan","series":"","name":"TheComfortofStrangers"}
+{"create":{"_index":"list", "_type":"books", "_id": "80"}}
+{"author":"KayRedfieldJamison","series":"","name":"Nothingwasthesame:amemoir"}
+{"create":{"_index":"list", "_type":"books", "_id": "81"}}
+{"author":"DanFante","series":"","name":"ChumpChange:ANovel"}
+{"create":{"_index":"list", "_type":"books", "_id": "82"}}
+{"author":"DanFante","series":"","name":"Spittingofftallbuildings"}
+{"create":{"_index":"list", "_type":"books", "_id": "83"}}
+{"author":"DanFante","series":"","name":"Mooch"}
+{"create":{"_index":"list", "_type":"books", "_id": "84"}}
+{"author":"DanFante","series":"","name":"86'd:ANovel"}
+{"create":{"_index":"list", "_type":"books", "_id": "85"}}
+{"author":"StevenHarper","series":"","name":"Nightmare"}
+{"create":{"_index":"list", "_type":"books", "_id": "86"}}
+{"author":"StevenHarper","series":"SilentEmpire","name":"Dreamer"}
+{"create":{"_index":"list", "_type":"books", "_id": "87"}}
+{"author":"StevenHarper","series":"SilentEmpire","name":"Trickster"}
+{"create":{"_index":"list", "_type":"books", "_id": "88"}}
+{"author":"StevenHarper","series":"SilentEmpire","name":"Offspring"}
+{"create":{"_index":"list", "_type":"books", "_id": "89"}}
+{"author":"AssafGavron","series":"","name":"AlmostDead:ANovel"}
+{"create":{"_index":"list", "_type":"books", "_id": "90"}}
+{"author":"AnnBrashares","series":"","name":"MyNameIsMemory"}
+{"create":{"_index":"list", "_type":"books", "_id": "91"}}
+{"author":"MarkMorris","series":"Torchwood","name":"BayoftheDead"}
+{"create":{"_index":"list", "_type":"books", "_id": "92"}}
+{"author":"EmilyGrayTedrowe","series":"","name":"Commuters:ANovel"}
+{"create":{"_index":"list", "_type":"books", "_id": "93"}}
+{"author":"RobertCrais","series":"JoePike","name":"TheSentry"}
+{"create":{"_index":"list", "_type":"books", "_id": "94"}}
+{"author":"MosabHassanYousef","series":"","name":"SonofHamas"}
+{"create":{"_index":"list", "_type":"books", "_id": "95"}}
+{"author":"KellyCreagh","series":"","name":"Nevermore"}
+{"create":{"_index":"list", "_type":"books", "_id": "96"}}
+{"author":"BarryMaitland","series":"","name":"TheMarxSisters:AKathyKollaandDavidBrockMystery"}
+{"create":{"_index":"list", "_type":"books", "_id": "97"}}
+{"author":"EdgarRiceBurroughs","series":"","name":"Tarzanoftheapes"}
+{"create":{"_index":"list", "_type":"books", "_id": "98"}}
+{"author":"FriedrichWilhelmNietzsche","series":"","name":"BeyondGoodandEvil:PreludetoaPhilosophyoftheFuture"}
+{"create":{"_index":"list", "_type":"books", "_id": "99"}}
+{"author":"FriedrichWilhelmNietzsche&WalterArnoldKaufmann","series":"","name":"BasicwritingsofNietzsche"}
+{"create":{"_index":"list", "_type":"books", "_id": "100"}}
+{"author":"CharleneSands","series":"","name":"Million-DollarMarriageMerger"}
+{"create":{"_index":"list", "_type":"books", "_id": "101"}}
+{"author":"JimGorant","series":"","name":"TheLostDogs:MichaelVick'sDogsandTheirTaleofRescueandRedemption"}
+{"create":{"_index":"list", "_type":"books", "_id": "102"}}
+{"author":"EveBunting","series":"","name":"TheSummerofRiley"}
+{"create":{"_index":"list", "_type":"books", "_id": "103"}}
+{"author":"RickyMartin","series":"","name":"Me"}
+{"create":{"_index":"list", "_type":"books", "_id": "104"}}
+{"author":"SeananMcGuire","series":"","name":"ALocalHabitation"}
+{"create":{"_index":"list", "_type":"books", "_id": "105"}}
+{"author":"SeananMcGuire","series":"OctoberDaye","name":"AnArtificialNight"}
+{"create":{"_index":"list", "_type":"books", "_id": "106"}}
+{"author":"SeananMcGuire","series":"","name":"RosemaryandRue"}
+{"create":{"_index":"list", "_type":"books", "_id": "107"}}
+{"author":"JanelleBrown","series":"","name":"ThisIsWhereWeLive"}
+{"create":{"_index":"list", "_type":"books", "_id": "108"}}
+{"author":"ChuckKlosterman","series":"","name":"ChuckKlostermanonRock"}
+{"create":{"_index":"list", "_type":"books", "_id": "109"}}
+{"author":"ChuckKlosterman","series":"","name":"ChuckKlostermanonPop"}
+{"create":{"_index":"list", "_type":"books", "_id": "110"}}
+{"author":"ChuckKlosterman","series":"","name":"Sex,Drugs,andCocoaPuffs"}
+{"create":{"_index":"list", "_type":"books", "_id": "111"}}
+{"author":"ChuckKlosterman","series":"","name":"ChuckKlostermanonFilmandTelevision"}
+{"create":{"_index":"list", "_type":"books", "_id": "112"}}
+{"author":"ChuckKlosterman","series":"","name":"ChuckKlostermanonMediaandCulture"}
+{"create":{"_index":"list", "_type":"books", "_id": "113"}}
+{"author":"ChuckKlosterman","series":"","name":"EatingtheDinosaur"}
+{"create":{"_index":"list", "_type":"books", "_id": "114"}}
+{"author":"NeilGaiman&MichaelReaves","series":"","name":"InterWorld"}
+{"create":{"_index":"list", "_type":"books", "_id": "115"}}
+{"author":"NeilGaiman","series":"","name":"AmericanGods"}
+{"create":{"_index":"list", "_type":"books", "_id": "116"}}
+{"author":"NeilGaiman","series":"NeilGaimanShortStories","name":"FragileThings"}
+{"create":{"_index":"list", "_type":"books", "_id": "117"}}
+{"author":"NeilGaiman","series":"NeilGaimanShortStories","name":"MIsforMagic"}
+{"create":{"_index":"list", "_type":"books", "_id": "118"}}
+{"author":"NeilGaiman","series":"","name":"Neverwhere:ANovel"}
+{"create":{"_index":"list", "_type":"books", "_id": "119"}}
+{"author":"NeilGaiman","series":"","name":"OddandtheFrostGiants"}
+{"create":{"_index":"list", "_type":"books", "_id": "120"}}
+{"author":"NeilGaiman","series":"","name":"SmokeandMirrors:ShortFictionsandIllusions"}
+{"create":{"_index":"list", "_type":"books", "_id": "121"}}
+{"author":"NeilGaiman&DaveMcKean","series":"","name":"Thegraveyardbook"}
+{"create":{"_index":"list", "_type":"books", "_id": "122"}}
+{"author":"NeilGaiman&AlSarrantonio","series":"","name":"Stories:All-NewTales"}
+{"create":{"_index":"list", "_type":"books", "_id": "123"}}
+{"author":"NeilGaiman&DaveMcKean","series":"","name":"Coraline"}
+{"create":{"_index":"list", "_type":"books", "_id": "124"}}
+{"author":"NeilGaiman","series":"","name":"Stardust"}
+{"create":{"_index":"list", "_type":"books", "_id": "125"}}
+{"author":"NeilGaiman","series":"AmericanGods","name":"AnansiBoys"}
+{"create":{"_index":"list", "_type":"books", "_id": "126"}}
+{"author":"CraigJohnson","series":"","name":"TheColdDish"}
+{"create":{"_index":"list", "_type":"books", "_id": "127"}}
+{"author":"JoanneRock","series":"","name":"TheCaptive"}
+{"create":{"_index":"list", "_type":"books", "_id": "128"}}
+{"author":"JohnJacksonMiller","series":"","name":"StarWarsLostTribeoftheSith#1"}
+{"create":{"_index":"list", "_type":"books", "_id": "129"}}
+{"author":"LorrieMoore","series":"","name":"AGateattheStairs"}
+{"create":{"_index":"list", "_type":"books", "_id": "130"}}
+{"author":"MichaelCapuzzo","series":"","name":"TheMurderRoom:TheHeirsofSherlockHolmesGathertoSolvetheWorld'sMostPerplexingColdCases"}
+{"create":{"_index":"list", "_type":"books", "_id": "131"}}
+{"author":"MichaelCapuzzo","series":"","name":"TheMurderRoom"}
+{"create":{"_index":"list", "_type":"books", "_id": "132"}}
+{"author":"BarbaraMcMahon","series":"JewelsoftheDesert","name":"AccidentallytheSheikh'sWife"}
+{"create":{"_index":"list", "_type":"books", "_id": "133"}}
+{"author":"KelleyArmstrong","series":"NadiaStafford","name":"MadetoBeBroken"}
+{"create":{"_index":"list", "_type":"books", "_id": "134"}}
+{"author":"KelleyArmstrong","series":"","name":"PersonalDemon"}
+{"create":{"_index":"list", "_type":"books", "_id": "135"}}
+{"author":"KelleyArmstrong","series":"WomenoftheOtherworld","name":"Bitten"}
+{"create":{"_index":"list", "_type":"books", "_id": "136"}}
+{"author":"KelleyArmstrong","series":"","name":"IndustrialMagic"}
+{"create":{"_index":"list", "_type":"books", "_id": "137"}}
+{"author":"KelleyArmstrong","series":"DarkestPowers","name":"TheSummoning"}
+{"create":{"_index":"list", "_type":"books", "_id": "138"}}
+{"author":"KelleyArmstrong","series":"NadiaStafford","name":"ExitStrategy"}
+{"create":{"_index":"list", "_type":"books", "_id": "139"}}
+{"author":"KelleyArmstrong","series":"WomenoftheOtherworld","name":"Stolen"}
+{"create":{"_index":"list", "_type":"books", "_id": "140"}}
+{"author":"KelleyArmstrong","series":"DarkestPowers","name":"TheAwakening"}
+{"create":{"_index":"list", "_type":"books", "_id": "141"}}
+{"author":"KelleyArmstrong","series":"WomenoftheOtherworld","name":"MenoftheOtherworld"}
+{"create":{"_index":"list", "_type":"books", "_id": "142"}}
+{"author":"KelleyArmstrong","series":"DarkestPowers","name":"TheReckoning"}
+{"create":{"_index":"list", "_type":"books", "_id": "143"}}
+{"author":"KelleyArmstrong","series":"WomenoftheOtherworld","name":"Broken"}
+{"create":{"_index":"list", "_type":"books", "_id": "144"}}
+{"author":"KelleyArmstrong","series":"WomenoftheOtherworld","name":"Haunted"}
+{"create":{"_index":"list", "_type":"books", "_id": "145"}}
+{"author":"KelleyArmstrong","series":"WomenoftheOtherworld","name":"WakingtheWitch"}
+{"create":{"_index":"list", "_type":"books", "_id": "146"}}
+{"author":"KelleyArmstrong","series":"WomenoftheOtherworld","name":"NoHumansInvolved"}
+{"create":{"_index":"list", "_type":"books", "_id": "147"}}
+{"author":"KelleyArmstrong","series":"","name":"LivingwiththeDead"}
+{"create":{"_index":"list", "_type":"books", "_id": "148"}}
+{"author":"KelleyArmstrong","series":"","name":"WomenoftheOtherworld"}
+{"create":{"_index":"list", "_type":"books", "_id": "149"}}
+{"author":"CordwainerSmith","series":"","name":"TheRediscoveryofMan"}
+{"create":{"_index":"list", "_type":"books", "_id": "150"}}
+{"author":"RogerRosenblatt","series":"","name":"MakingToast"}
+{"create":{"_index":"list", "_type":"books", "_id": "151"}}
+{"author":"MichaelCrichton","series":"","name":"TheAndromedaStrain"}
+{"create":{"_index":"list", "_type":"books", "_id": "152"}}
+{"author":"MichaelCrichton","series":"","name":"Next:anovel"}
+{"create":{"_index":"list", "_type":"books", "_id": "153"}}
+{"author":"MichaelCrichton","series":"","name":"Timeline"}
+{"create":{"_index":"list", "_type":"books", "_id": "154"}}
+{"author":"MichaelCrichton","series":"","name":"Congo"}
+{"create":{"_index":"list", "_type":"books", "_id": "155"}}
+{"author":"MichaelCrichton&JeffreyHudson","series":"","name":"Acaseofneed"}
+{"create":{"_index":"list", "_type":"books", "_id": "156"}}
+{"author":"MichaelCrichton","series":"","name":"Binary"}
+{"create":{"_index":"list", "_type":"books", "_id": "157"}}
+{"author":"MichaelCrichton","series":"","name":"Jurassicpark"}
+{"create":{"_index":"list", "_type":"books", "_id": "158"}}
+{"author":"MichaelCrichton","series":"","name":"TheLostWorld"}
+{"create":{"_index":"list", "_type":"books", "_id": "159"}}
+{"author":"MichaelCrichton","series":"","name":"EatersoftheDead"}
+{"create":{"_index":"list", "_type":"books", "_id": "160"}}
+{"author":"MichaelCrichton","series":"","name":"Airframe"}
+{"create":{"_index":"list", "_type":"books", "_id": "161"}}
+{"author":"WarrenFahy","series":"","name":"Fragment"}
+{"create":{"_index":"list", "_type":"books", "_id": "162"}}
+{"author":"DavidCristofano","series":"","name":"TheGirlSheUsedtoBe"}
+{"create":{"_index":"list", "_type":"books", "_id": "163"}}
+{"author":"AlexScarrow","series":"","name":"OctoberSkies"}
+{"create":{"_index":"list", "_type":"books", "_id": "164"}}
+{"author":"AlexScarrow","series":"","name":"Afterlight"}
+{"create":{"_index":"list", "_type":"books", "_id": "165"}}
+{"author":"AlexScarrow","series":"","name":"AThousandSuns"}
+{"create":{"_index":"list", "_type":"books", "_id": "166"}}
+{"author":"MaryMonroe","series":"GodDon'tLikeUgly","name":"GodDon'tLikeUgly"}
+{"create":{"_index":"list", "_type":"books", "_id": "167"}}
+{"author":"DanFesperman","series":"","name":"LayoverinDubai"}
+{"create":{"_index":"list", "_type":"books", "_id": "168"}}
+{"author":"DanFesperman","series":"","name":"TheArmsMakerofBerlin"}
+{"create":{"_index":"list", "_type":"books", "_id": "169"}}
+{"author":"MarkMcNay","series":"","name":"Fresh"}
+{"create":{"_index":"list", "_type":"books", "_id": "170"}}
+{"author":"JaradHenry","series":"","name":"BloodSunset"}
+{"create":{"_index":"list", "_type":"books", "_id": "171"}}
+{"author":"KristaVernoff&AzFerguson","series":"","name":"TheGameOn!Diet:KickYourFriend'sButtWhileShrinkingYourOwn"}
+{"create":{"_index":"list", "_type":"books", "_id": "172"}}
+{"author":"MulkRajAnand","series":"","name":"Untouchable"}
+{"create":{"_index":"list", "_type":"books", "_id": "173"}}
+{"author":"GitaNazareth","series":"","name":"ForgivingArarat"}
+{"create":{"_index":"list", "_type":"books", "_id": "174"}}
+{"author":"MarieBrennan","series":"OnyxCourt","name":"AStarShallFall"}
+{"create":{"_index":"list", "_type":"books", "_id": "175"}}
+{"author":"LeslieMeier","series":"LucyStoneMysteries","name":"BakeSaleMurder"}
+{"create":{"_index":"list", "_type":"books", "_id": "176"}}
+{"author":"LeslieMeier","series":"LucyStoneMysteries","name":"Father'sDayMurder"}
+{"create":{"_index":"list", "_type":"books", "_id": "177"}}
+{"author":"LeslieMeier","series":"LucyStoneMysteries","name":"NewYear'sEveMurder"}
+{"create":{"_index":"list", "_type":"books", "_id": "178"}}
+{"author":"FrankHerbert","series":"","name":"DuneMessiah"}
+{"create":{"_index":"list", "_type":"books", "_id": "179"}}
+{"author":"FrankHerbert","series":"Dune","name":"GodEmperorofDune"}
+{"create":{"_index":"list", "_type":"books", "_id": "180"}}
+{"author":"FrankHerbert","series":"Dune","name":"ChildrenofDune"}
+{"create":{"_index":"list", "_type":"books", "_id": "181"}}
+{"author":"FrankHerbert","series":"","name":"Dune"}
+{"create":{"_index":"list", "_type":"books", "_id": "182"}}
+{"author":"FrankHerbert","series":"","name":"HereticsofDune"}
+{"create":{"_index":"list", "_type":"books", "_id": "183"}}
+{"author":"FrankHerbert","series":"","name":"Chapterhouse:Dune"}
+{"create":{"_index":"list", "_type":"books", "_id": "184"}}
+{"author":"MihalyCsikszentmihalyi","series":"","name":"Creativity"}
+{"create":{"_index":"list", "_type":"books", "_id": "185"}}
+{"author":"WalterCrane","series":"","name":"TheFrogPrinceandOtherStories"}
+{"create":{"_index":"list", "_type":"books", "_id": "186"}}
+{"author":"LiaquatAhamed","series":"","name":"LordsofFinance:TheBankersWhoBroketheWorld"}
+{"create":{"_index":"list", "_type":"books", "_id": "187"}}
+{"author":"JonStewart","series":"","name":"NakedPicturesofFamousPeople"}
+{"create":{"_index":"list", "_type":"books", "_id": "188"}}
+{"author":"TimPratt","series":"","name":"SympathyfortheDevil"}
+{"create":{"_index":"list", "_type":"books", "_id": "189"}}
+{"author":"AuroraRoseLynn","series":"","name":"SoulDancer"}
+{"create":{"_index":"list", "_type":"books", "_id": "190"}}
+{"author":"GeorgeBernardShaw","series":"","name":"CaesarandCleopatraCaesarandCleopatra"}
+{"create":{"_index":"list", "_type":"books", "_id": "191"}}
+{"author":"GeorgeBernardShaw","series":"","name":"Pygmalionandthreeotherplays"}
+{"create":{"_index":"list", "_type":"books", "_id": "192"}}
+{"author":"LuanneRice","series":"","name":"TheDeepBlueSeaforBeginners"}
+{"create":{"_index":"list", "_type":"books", "_id": "193"}}
+{"author":"LuanneRice","series":"","name":"FollowtheStarsHome"}
+{"create":{"_index":"list", "_type":"books", "_id": "194"}}
+{"author":"MarinaFiorato","series":"","name":"TheBotticelliSecret"}
+{"create":{"_index":"list", "_type":"books", "_id": "195"}}
+{"author":"GaryRivlin","series":"","name":"Broke,USA:FromPawnshopstoPoverty,Inc.—HowtheWorkingPoorBecameBigBusiness"}
+{"create":{"_index":"list", "_type":"books", "_id": "196"}}
+{"author":"HaroldSchechter","series":"","name":"Deranged:TheShockingTrueStoryofAmerica'sMostFiendishKiller"}
+{"create":{"_index":"list", "_type":"books", "_id": "197"}}
+{"author":"CatherynneValente","series":"","name":"Palimpsest"}
+{"create":{"_index":"list", "_type":"books", "_id": "198"}}
+{"author":"RosamundLupton","series":"","name":"Sister:ANovel"}
+{"create":{"_index":"list", "_type":"books", "_id": "199"}}
+{"author":"HowardBryant","series":"","name":"TheLastHero:ALifeofHenryAaron"}
+{"create":{"_index":"list", "_type":"books", "_id": "200"}}
+{"author":"DelsonArmstrong","series":"","name":"RedSerpent:TheFalsifier"}
+{"create":{"_index":"list", "_type":"books", "_id": "201"}}
+{"author":"DavidDrake","series":"","name":"DogsofWar"}
+{"create":{"_index":"list", "_type":"books", "_id": "202"}}
+{"author":"JohnBrown","series":"","name":"ServantofaDarkGod"}
+{"create":{"_index":"list", "_type":"books", "_id": "203"}}
+{"author":"PersiaWoolley","series":"GuinevereTrilogy","name":"ChildoftheNorthernSpring:BookOneoftheGuinevereTrilogy"}
+{"create":{"_index":"list", "_type":"books", "_id": "204"}}
+{"author":"AmyStewart","series":"","name":"WickedPlants"}
+{"create":{"_index":"list", "_type":"books", "_id": "205"}}
+{"author":"CarolynParkhurst","series":"","name":"TheNobodiesAlbum"}
+{"create":{"_index":"list", "_type":"books", "_id": "206"}}
+{"author":"DavidKeck","series":"IntheEyeofHeaven","name":"IntheEyeofHeaven"}
+{"create":{"_index":"list", "_type":"books", "_id": "207"}}
+{"author":"JustinPeacock","series":"","name":"BlindMan'sAlley"}
+{"create":{"_index":"list", "_type":"books", "_id": "208"}}
+{"author":"SteveSouders","series":"","name":"HighPerformanceWebSites"}
+{"create":{"_index":"list", "_type":"books", "_id": "209"}}
+{"author":"SteveSouders","series":"","name":"EvenFasterWebSites"}
+{"create":{"_index":"list", "_type":"books", "_id": "210"}}
+{"author":"PaulaButturini","series":"","name":"KeepingtheFeast"}
+{"create":{"_index":"list", "_type":"books", "_id": "211"}}
+{"author":"DianeBurke","series":"","name":"MidnightCaller"}
+{"create":{"_index":"list", "_type":"books", "_id": "212"}}
+{"author":"BrianHerbert&KevinJ.Anderson","series":"","name":"TheMachineCrusade"}
+{"create":{"_index":"list", "_type":"books", "_id": "213"}}
+{"author":"BrianHerbert&KevinJ.Anderson","series":"Dune:HouseTrilogy","name":"HouseHarkonnen"}
+{"create":{"_index":"list", "_type":"books", "_id": "214"}}
+{"author":"BrianHerbert&KevinJ.Anderson","series":"Dune:LegendsofDune","name":"TheButlerianJihad"}
+{"create":{"_index":"list", "_type":"books", "_id": "215"}}
+{"author":"BrianHerbert&KevinJ.Anderson","series":"Dune:HouseTrilogy","name":"HouseCorrino"}
+{"create":{"_index":"list", "_type":"books", "_id": "216"}}
+{"author":"BrianHerbert&KevinJ.Anderson","series":"Dune:LegendsofDune","name":"TheBattleofCorrin"}
+{"create":{"_index":"list", "_type":"books", "_id": "217"}}
+{"author":"BrianHerbert&KevinJ.Anderson","series":"","name":"TheWindsofDune"}
+{"create":{"_index":"list", "_type":"books", "_id": "218"}}
+{"author":"BrianHerbert&KevinJ.Anderson","series":"Dune:HouseTrilogy","name":"HouseAtreides"}
+{"create":{"_index":"list", "_type":"books", "_id": "219"}}
+{"author":"BrianHerbert&KevinJ.Anderson","series":"","name":"PaulofDune"}
+{"create":{"_index":"list", "_type":"books", "_id": "220"}}
+{"author":"JerryA.Coyne","series":"","name":"WhyEvolutionIsTrue"}
+{"create":{"_index":"list", "_type":"books", "_id": "221"}}
+{"author":"PatrickBarclay","series":"","name":"'Football-BloodyHell!':TheStoryofAlexFerguson"}
+{"create":{"_index":"list", "_type":"books", "_id": "222"}}
+{"author":"SeanBlack","series":"RyanLock","name":"Lockdown"}
+{"create":{"_index":"list", "_type":"books", "_id": "223"}}
+{"author":"SonnyBrewer","series":"","name":"Cormac:TheTaleofaDogGoneMissing"}
+{"create":{"_index":"list", "_type":"books", "_id": "224"}}
+{"author":"PatBrown&BobAndelman","series":"","name":"TheProfiler:MyLifeHuntingSerialKillersandPsychopaths"}
+{"create":{"_index":"list", "_type":"books", "_id": "225"}}
+{"author":"JustinHalpern","series":"","name":"Sh*tMyDadSays"}
+{"create":{"_index":"list", "_type":"books", "_id": "226"}}
+{"author":"MarkMills","series":"","name":"TheInformationOfficer"}
+{"create":{"_index":"list", "_type":"books", "_id": "227"}}
+{"author":"PatrickBarclay","series":"","name":"Football–BloodyHell!"}
+{"create":{"_index":"list", "_type":"books", "_id": "228"}}
+{"author":"MarkMills","series":"","name":"Amagansett"}
+{"create":{"_index":"list", "_type":"books", "_id": "229"}}
+{"author":"BillSimmons","series":"","name":"TheBookofBasketball:TheNBAAccordingtotheSportsGuy"}
+{"create":{"_index":"list", "_type":"books", "_id": "230"}}
+{"author":"StephenAmesBerry","series":"BiofabWar","name":"TheBiofabWar"}
+{"create":{"_index":"list", "_type":"books", "_id": "231"}}
+{"author":"StephenAmesBerry","series":"","name":"FinalAssault"}
+{"create":{"_index":"list", "_type":"books", "_id": "232"}}
+{"author":"StephenAmesBerry","series":"BiofabWar","name":"TheAIWar"}
+{"create":{"_index":"list", "_type":"books", "_id": "233"}}
+{"author":"StephenAmesBerry","series":"BiofabWar","name":"TheBattleforTerraTwo"}
+{"create":{"_index":"list", "_type":"books", "_id": "234"}}
+{"author":"JohnPipkin","series":"","name":"Woodsburner"}
+{"create":{"_index":"list", "_type":"books", "_id": "235"}}
+{"author":"DanChaon","series":"","name":"AwaitYourReply"}
+{"create":{"_index":"list", "_type":"books", "_id": "236"}}
+{"author":"LusM.Rocha","series":"","name":"TheLastPope"}
+{"create":{"_index":"list", "_type":"books", "_id": "237"}}
+{"author":"LusM.Rocha","series":"","name":"TheHolyBullet"}
+{"create":{"_index":"list", "_type":"books", "_id": "238"}}
+{"author":"AliSmith","series":"","name":"TheFirstPerson:AndOtherStories"}
+{"create":{"_index":"list", "_type":"books", "_id": "239"}}
+{"author":"PaulHoffman","series":"","name":"ThelefthandofGod"}
+{"create":{"_index":"list", "_type":"books", "_id": "240"}}
+{"author":"NevilShute","series":"","name":"NoHighway"}
+{"create":{"_index":"list", "_type":"books", "_id": "241"}}
+{"author":"Marx&Whitehead;Process,Dialectics&theCritiqueofCapitalism(2004)","series":"","name":"Pomeroy"}
+{"create":{"_index":"list", "_type":"books", "_id": "242"}}
+{"author":"MaureenAsh","series":"TemplarKnightMystery","name":"MurderforChrist'sMass"}
+{"create":{"_index":"list", "_type":"books", "_id": "243"}}
+{"author":"HanneloreBrenner-Wonschick&HanneloreBrenner","series":"","name":"TheGirlsofRoom28:Friendship,Hope,andSurvivalinTheresienstadt"}
+{"create":{"_index":"list", "_type":"books", "_id": "244"}}
+{"author":"R.A.Salvatore","series":"Neverwinter","name":"Gauntlgrym"}
+{"create":{"_index":"list", "_type":"books", "_id": "245"}}
+{"author":"R.A.Salvatore","series":"CrimsonShadow","name":"TheCrimsonShadow"}
+{"create":{"_index":"list", "_type":"books", "_id": "246"}}
+{"author":"ColinDexter","series":"","name":"DeathIsNowMyNeighbour"}
+{"create":{"_index":"list", "_type":"books", "_id": "247"}}
+{"author":"CathyMarieBuchanan","series":"","name":"TheDaytheFallsStoodStill"}
+{"create":{"_index":"list", "_type":"books", "_id": "248"}}
+{"author":"ChaimPotok","series":"","name":"ThegatesofNovember"}
+{"create":{"_index":"list", "_type":"books", "_id": "249"}}
+{"author":"GailOust","series":"BuncoBabesMysteries","name":"TilDiceDoUsPart"}
+{"create":{"_index":"list", "_type":"books", "_id": "250"}}
+{"author":"AdamJacotDeBoinod","series":"Tingo","name":"TheMeaningofTingo:AndOtherExtraordinaryWordsfromAroundtheWorld"}
+{"create":{"_index":"list", "_type":"books", "_id": "251"}}
+{"author":"WalterMosley","series":"","name":"TheLastDaysofPtolemyGrey"}
+{"create":{"_index":"list", "_type":"books", "_id": "252"}}
+{"author":"WalterMosley","series":"FearlessJonesMysteries","name":"FearlessJones"}
+{"create":{"_index":"list", "_type":"books", "_id": "253"}}
+{"author":"WalterMosley","series":"FearlessJonesMysteries","name":"FearItself"}
+{"create":{"_index":"list", "_type":"books", "_id": "254"}}
+{"author":"RobertLouisStevenson","series":"","name":"TreasureIsland"}
+{"create":{"_index":"list", "_type":"books", "_id": "255"}}
+{"author":"RobertLouisStevenson","series":"","name":"StrangeCaseofDrJekyllandMrHydeandOtherTales"}
+{"create":{"_index":"list", "_type":"books", "_id": "256"}}
+{"author":"KamiGarcia&MargaretStohl","series":"TheCasterChronicles","name":"BeautifulCreatures"}
+{"create":{"_index":"list", "_type":"books", "_id": "257"}}
+{"author":"AllenGinsberg","series":"","name":"Realitysandwiches"}
+{"create":{"_index":"list", "_type":"books", "_id": "258"}}
+{"author":"TimKring&DalePeck","series":"GateofOrpheusTrilogy","name":"Shift"}
+{"create":{"_index":"list", "_type":"books", "_id": "259"}}
+{"author":"GillianFlynn","series":"","name":"DarkPlaces"}
+{"create":{"_index":"list", "_type":"books", "_id": "260"}}
+{"author":"RobThurman","series":"Trickster","name":"TheGrimrosePath:ATricksterNovel"}
+{"create":{"_index":"list", "_type":"books", "_id": "261"}}
+{"author":"UmbertoEco&WilliamWeaver&DavidLodge","series":"","name":"Thenameoftherose"}
+{"create":{"_index":"list", "_type":"books", "_id": "262"}}
+{"author":"UmbertoEco","series":"","name":"Foucault'spendulum"}
+{"create":{"_index":"list", "_type":"books", "_id": "263"}}
+{"author":"PeterStraub","series":"","name":"Shadowland"}
+{"create":{"_index":"list", "_type":"books", "_id": "264"}}
+{"author":"PeterStraub","series":"","name":"TheHellfireClub"}
+{"create":{"_index":"list", "_type":"books", "_id": "265"}}
+{"author":"PeterStraub","series":"","name":"ADarkMatter"}
+{"create":{"_index":"list", "_type":"books", "_id": "266"}}
+{"author":"PeterStraub","series":"","name":"Poe'schildren:thenewhorror:ananthology"}
+{"create":{"_index":"list", "_type":"books", "_id": "267"}}
+{"author":"PeterStraub","series":"TheBlueRoseTrilogy","name":"Mystery"}
+{"create":{"_index":"list", "_type":"books", "_id": "268"}}
+{"author":"PeterStraub","series":"","name":"GhostStory"}
+{"create":{"_index":"list", "_type":"books", "_id": "269"}}
+{"author":"PeterStraub","series":"","name":"Magicterror:seventales"}
+{"create":{"_index":"list", "_type":"books", "_id": "270"}}
+{"author":"PeterStraub","series":"","name":"Mr.X"}
+{"create":{"_index":"list", "_type":"books", "_id": "271"}}
+{"author":"PeterStraub","series":"","name":"Inthenightroom:anovel"}
+{"create":{"_index":"list", "_type":"books", "_id": "272"}}
+{"author":"TheCarbonFootprintWars(2009)","series":"","name":"Sim"}
+{"create":{"_index":"list", "_type":"books", "_id": "273"}}
+{"author":"ZedartHodges","series":"","name":"TheBeginning...theEnd...Anew!"}
+{"create":{"_index":"list", "_type":"books", "_id": "274"}}
+{"author":"HaroldKoplewicz","series":"","name":"It'sNobody'sFault:NewHopeandHelpforDifficultChildrenandTheirParents"}
+{"create":{"_index":"list", "_type":"books", "_id": "275"}}
+{"author":"MarshaCanham","series":"","name":"ThroughaDarkMist"}
+{"create":{"_index":"list", "_type":"books", "_id": "276"}}
+{"author":"MadeleineL'Engle","series":"TheTimeQuintet","name":"Awrinkleintime"}
+{"create":{"_index":"list", "_type":"books", "_id": "277"}}
+{"author":"MarshaCanham","series":"","name":"IntheShadowofMidnight"}
+{"create":{"_index":"list", "_type":"books", "_id": "278"}}
+{"author":"AnitaDiamant","series":"","name":"TheRedTent"}
+{"create":{"_index":"list", "_type":"books", "_id": "279"}}
+{"author":"GiovanniBoccaccio","series":"","name":"TheDecameron"}
+{"create":{"_index":"list", "_type":"books", "_id": "280"}}
+{"author":"MatthewSkelton","series":"","name":"TheStoryofCirrusFlux"}
+{"create":{"_index":"list", "_type":"books", "_id": "281"}}
+{"author":"GeraldineBrooks","series":"","name":"March:anovel"}
+{"create":{"_index":"list", "_type":"books", "_id": "282"}}
+{"author":"C.S.Lewis","series":"ChroniclesofNarnia:Chronologicalorder","name":"LastBattle"}
+{"create":{"_index":"list", "_type":"books", "_id": "283"}}
+{"author":"C.S.Lewis","series":"SpaceTrilogy","name":"ThatHideousStrength"}
+{"create":{"_index":"list", "_type":"books", "_id": "284"}}
+{"author":"GeraldineBrooks","series":"","name":"Yearofwonders:anoveloftheplague"}
+{"create":{"_index":"list", "_type":"books", "_id": "285"}}
+{"author":"C.S.Lewis","series":"ChroniclesofNarnia:Chronologicalorder","name":"PrinceCaspian"}
+{"create":{"_index":"list", "_type":"books", "_id": "286"}}
+{"author":"C.S.Lewis","series":"SpaceTrilogy","name":"Perelandra"}
+{"create":{"_index":"list", "_type":"books", "_id": "287"}}
+{"author":"C.S.Lewis","series":"SpaceTrilogy","name":"OutoftheSilentPlanet"}
+{"create":{"_index":"list", "_type":"books", "_id": "288"}}
+{"author":"C.S.Lewis","series":"","name":"Screwtapeletters;with,Screwtapeproposesatoast"}
+{"create":{"_index":"list", "_type":"books", "_id": "289"}}
+{"author":"C.S.Lewis","series":"ChroniclesofNarnia:Chronologicalorder","name":"Thehorseandhisboy"}
+{"create":{"_index":"list", "_type":"books", "_id": "290"}}
+{"author":"C.S.Lewis","series":"","name":"MereChristianity"}
+{"create":{"_index":"list", "_type":"books", "_id": "291"}}
+{"author":"C.S.Lewis","series":"ChroniclesofNarnia:Chronologicalorder","name":"TheLion,theWitchandtheWardrobe"}
+{"create":{"_index":"list", "_type":"books", "_id": "292"}}
+{"author":"C.S.Lewis","series":"ChroniclesofNarnia:Chronologicalorder","name":"Thesilverchair"}
+{"create":{"_index":"list", "_type":"books", "_id": "293"}}
+{"author":"C.S.Lewis","series":"ChroniclesofNarnia:Chronologicalorder","name":"Themagician'snephew"}
+{"create":{"_index":"list", "_type":"books", "_id": "294"}}
+{"author":"C.S.Lewis","series":"ChroniclesofNarnia:Chronologicalorder","name":"ThevoyageoftheDawnTreader"}
+{"create":{"_index":"list", "_type":"books", "_id": "295"}}
+{"author":"C.S.Lewis","series":"","name":"AGriefObserved"}
+{"create":{"_index":"list", "_type":"books", "_id": "296"}}
+{"author":"CybillShepherd&AimeeLeeBall","series":"","name":"CybillDisobedience"}
+{"create":{"_index":"list", "_type":"books", "_id": "297"}}
+{"author":"LesStroud&LauraBombier","series":"","name":"Survive!:EssentialSkillsandTacticstoGetYouOutofAnywhere-Alive"}
+{"create":{"_index":"list", "_type":"books", "_id": "298"}}
+{"author":"ChristopherBohjalian","series":"","name":"BeforeYouKnowKindness"}
+{"create":{"_index":"list", "_type":"books", "_id": "299"}}
+{"author":"ElizabethPeters","series":"AmeliaPeabody-Pub","name":"TheMummyCase"}
+{"create":{"_index":"list", "_type":"books", "_id": "300"}}
+{"author":"ElizabethPeters","series":"AmeliaPeabody-Pub","name":"TheFalconatthePortal:AnAmeliaPeabodyMystery"}
+{"create":{"_index":"list", "_type":"books", "_id": "301"}}
+{"author":"ElizabethPeters","series":"AmeliaPeabody-Pub","name":"Theserpentonthecrown"}
+{"create":{"_index":"list", "_type":"books", "_id": "302"}}
+{"author":"ElizabethPeters","series":"AmeliaPeabody-Pub","name":"CrocodileontheSandbank"}
+{"create":{"_index":"list", "_type":"books", "_id": "303"}}
+{"author":"ElizabethPeters","series":"","name":"TheDeedsoftheDisturber"}
+{"create":{"_index":"list", "_type":"books", "_id": "304"}}
+{"author":"ElizabethPeters","series":"VickyBliss","name":"StreetoftheFiveMoons"}
+{"create":{"_index":"list", "_type":"books", "_id": "305"}}
+{"author":"ElizabethPeters","series":"AmeliaPeabody-Pub","name":"TheGoldenOne:ANovelofSuspense"}
+{"create":{"_index":"list", "_type":"books", "_id": "306"}}
+{"author":"ElizabethPeters","series":"AmeliaPeabody-Pub","name":"SeeingaLargeCat"}
+{"create":{"_index":"list", "_type":"books", "_id": "307"}}
+{"author":"ElizabethPeters","series":"","name":"BorroweroftheNight:TheFirstVickyBlissMystery"}
+{"create":{"_index":"list", "_type":"books", "_id": "308"}}
+{"author":"ElizabethPeters","series":"AmeliaPeabody-Pub","name":"ARiverintheSky"}
+{"create":{"_index":"list", "_type":"books", "_id": "309"}}
+{"author":"ElizabethPeters","series":"AmeliaPeabody-Pub","name":"LordoftheSilent:ANovelofSuspense"}
+{"create":{"_index":"list", "_type":"books", "_id": "310"}}
+{"author":"ElizabethPeters","series":"AmeliaPeabody-Pub","name":"LionintheValley"}
+{"create":{"_index":"list", "_type":"books", "_id": "311"}}
+{"author":"ElizabethPeters","series":"AmeliaPeabody-Pub","name":"TomboftheGoldenBird"}
+{"create":{"_index":"list", "_type":"books", "_id": "312"}}
+{"author":"ElizabethPeters","series":"","name":"TheHippopotamusPool"}
+{"create":{"_index":"list", "_type":"books", "_id": "313"}}
+{"author":"ElizabethPeters","series":"AmeliaPeabody-Pub","name":"TheApeWhoGuardstheBalance"}
+{"create":{"_index":"list", "_type":"books", "_id": "314"}}
+{"author":"ElizabethPeters","series":"AmeliaPeabody-Pub","name":"TheCurseofthePharaohs"}
+{"create":{"_index":"list", "_type":"books", "_id": "315"}}
+{"author":"ElizabethPeters","series":"AmeliaPeabody-Pub","name":"Thelastcameldiedatnoon"}
+{"create":{"_index":"list", "_type":"books", "_id": "316"}}
+{"author":"ElizabethPeters","series":"","name":"TheSnake,theCrocodile,andtheDog"}
+{"create":{"_index":"list", "_type":"books", "_id": "317"}}
+{"author":"ElizabethPeters","series":"AmeliaPeabody-Pub","name":"GuardianoftheHorizon"}
+{"create":{"_index":"list", "_type":"books", "_id": "318"}}
+{"author":"ThereseWalsh","series":"","name":"TheLastWillofMoiraLeahy"}
+{"create":{"_index":"list", "_type":"books", "_id": "319"}}
+{"author":"RickAcker","series":"","name":"WhentheDevilWhistles"}
+{"create":{"_index":"list", "_type":"books", "_id": "320"}}
+{"author":"ChrisJ.Randolph","series":"","name":"StarsRainDown"}
+{"create":{"_index":"list", "_type":"books", "_id": "321"}}
+{"author":"ThomasPaine&MarkPhilp","series":"","name":"RightsofMan"}
+{"create":{"_index":"list", "_type":"books", "_id": "322"}}
+{"author":"ThomasPaine","series":"","name":"CommonSense,theRightsofManandOtherEssentialWritingsofThomasPaine"}
+{"create":{"_index":"list", "_type":"books", "_id": "323"}}
+{"author":"DanielKeyes","series":"","name":"FlowersforAlgernon"}
+{"create":{"_index":"list", "_type":"books", "_id": "324"}}
+{"author":"JasonMattera","series":"","name":"ObamaZombies:HowtheLiberalMachineBrainwashedMyGeneration"}
+{"create":{"_index":"list", "_type":"books", "_id": "325"}}
+{"author":"DougJohnstone","series":"","name":"Tombstoning"}
+{"create":{"_index":"list", "_type":"books", "_id": "326"}}
+{"author":"CharlieCarillo","series":"","name":"RaisingJake"}
+{"create":{"_index":"list", "_type":"books", "_id": "327"}}
+{"author":"JohnShors","series":"","name":"BesideaBurningSea"}
+{"create":{"_index":"list", "_type":"books", "_id": "328"}}
+{"author":"JohnShors","series":"","name":"DragonHouse"}
+{"create":{"_index":"list", "_type":"books", "_id": "329"}}
+{"author":"JohnShors","series":"","name":"TheWishingTrees"}
+{"create":{"_index":"list", "_type":"books", "_id": "330"}}
+{"author":"BhanteHenepolaGunaratana","series":"","name":"BeyondMindfulnessinPlainEnglish"}
+{"create":{"_index":"list", "_type":"books", "_id": "331"}}
+{"author":"JohnVorhaus","series":"","name":"TheCaliforniaRoll"}
+{"create":{"_index":"list", "_type":"books", "_id": "332"}}
+{"author":"StevenGould","series":"Jumper","name":"Jumper"}
+{"create":{"_index":"list", "_type":"books", "_id": "333"}}
+{"author":"StevenGould","series":"Jumper","name":"Reflex"}
+{"create":{"_index":"list", "_type":"books", "_id": "334"}}
+{"author":"StevenGould","series":"Jumper","name":"Jumper:Griffin'sStory"}
+{"create":{"_index":"list", "_type":"books", "_id": "335"}}
+{"author":"JaniceY.K.Lee","series":"","name":"ThePianoTeacher"}
+{"create":{"_index":"list", "_type":"books", "_id": "336"}}
+{"author":"AlexeyPehov","series":"ChroniclesofSiala","name":"ShadowProwler"}
+{"create":{"_index":"list", "_type":"books", "_id": "337"}}
+{"author":"MiaZachary","series":"","name":"AfternoonDelight"}
+{"create":{"_index":"list", "_type":"books", "_id": "338"}}
+{"author":"Louis-FerdinandCeline","series":"","name":"CastletoCastle(FrenchLiterature)"}
+{"create":{"_index":"list", "_type":"books", "_id": "339"}}
+{"author":"DavidLouisEdelman","series":"Jump225","name":"Multireal"}
+{"create":{"_index":"list", "_type":"books", "_id": "340"}}
+{"author":"DavidLouisEdelman","series":"Jump225","name":"Geosynchron"}
+{"create":{"_index":"list", "_type":"books", "_id": "341"}}
+{"author":"RoyPeterClark","series":"","name":"TheGlamourofGrammar:AGuidetotheMagicandMysteryofPracticalEnglish"}
+{"create":{"_index":"list", "_type":"books", "_id": "342"}}
+{"author":"DavidLouisEdelman","series":"Jump225","name":"Infoquake"}
+{"create":{"_index":"list", "_type":"books", "_id": "343"}}
+{"author":"JacquelynFrank&KateDouglas&JessHaines&ClareWillis","series":"","name":"Nocturnal"}
+{"create":{"_index":"list", "_type":"books", "_id": "344"}}
+{"author":"MarkBittman","series":"","name":"TheFoodMattersCookbook:500RevolutionaryRecipesforBetterLiving"}
+{"create":{"_index":"list", "_type":"books", "_id": "345"}}
+{"author":"MarkBittman","series":"","name":"FoodMatters:AGuidetoConsciousEatingwithMoreThan75Recipes"}
+{"create":{"_index":"list", "_type":"books", "_id": "346"}}
+{"author":"MarkBittman","series":"","name":"MarkBittman'sKitchenExpress:404InspiredSeasonalDishesYouCanMakein20MinutesOrLess"}
+{"create":{"_index":"list", "_type":"books", "_id": "347"}}
+{"author":"JamyangNorbu","series":"","name":"ThemandalaofSherlockHolmes:themissingyears"}
+{"create":{"_index":"list", "_type":"books", "_id": "348"}}
+{"author":"JamyangNorbu","series":"","name":"ThemandalaofSherlockHolmes:themissingyears:basedonthereminiscencesofHurreeChunderMookerjee,C.I.E.,F.R.S.,RaiBahadur,FellowoftheRoyalSociety,London,FellowoftheRoyalGeographicalSociety,London,andrecipientofFounder'sMedal,correspondingmemberoftheImperialArchaeologicalSocietyofSt.Petersburg,associatememberoftheRoyalAsiaticSocietyofBengal,Calcutta,lifememberofBrahmoSomaj,Calcutta"}
+{"create":{"_index":"list", "_type":"books", "_id": "349"}}
+{"author":"MichaelLewis","series":"","name":"TheBlindSide:EvolutionofaGame"}
+{"create":{"_index":"list", "_type":"books", "_id": "350"}}
+{"author":"ElizabethMansfield","series":"","name":"TheMagnificentMasquerade"}
+{"create":{"_index":"list", "_type":"books", "_id": "351"}}
+{"author":"LymanFrankBaum","series":"Oz:FamousForty","name":"TheroadtoOz"}
+{"create":{"_index":"list", "_type":"books", "_id": "352"}}
+{"author":"LymanFrankBaum","series":"","name":"AKidnappedSantaClaus"}
+{"create":{"_index":"list", "_type":"books", "_id": "353"}}
+{"author":"LymanFrankBaum","series":"Oz:FamousForty","name":"OzmaofOz"}
+{"create":{"_index":"list", "_type":"books", "_id": "354"}}
+{"author":"LymanFrankBaum","series":"TrotandCap'nBillSeries","name":"Skyisland:beingthefurtherexcitingadventuresofTrotandCap'nBillaftertheirvisitstotheseafairies"}
+{"create":{"_index":"list", "_type":"books", "_id": "355"}}
+{"author":"LymanFrankBaum","series":"Oz:FamousForty","name":"TheMarvelousLandofOz"}
+{"create":{"_index":"list", "_type":"books", "_id": "356"}}
+{"author":"LymanFrankBaum","series":"","name":"TheSeaFairies"}
+{"create":{"_index":"list", "_type":"books", "_id": "357"}}
+{"author":"LymanFrankBaum","series":"Oz:FamousForty","name":"TheWonderfulWizardofOz"}
+{"create":{"_index":"list", "_type":"books", "_id": "358"}}
+{"author":"LymanFrankBaum","series":"Oz:FamousForty","name":"DorothyandtheWizardinOz"}
+{"create":{"_index":"list", "_type":"books", "_id": "359"}}
+{"author":"LymanFrankBaum","series":"Oz:FamousForty","name":"TheEmeraldCityofOz"}
+{"create":{"_index":"list", "_type":"books", "_id": "360"}}
+{"author":"LymanFrankBaum","series":"","name":"TheLifeandAdventuresofSantaClaus"}
+{"create":{"_index":"list", "_type":"books", "_id": "361"}}
+{"author":"JeffLong","series":"Hadals","name":"TheDescent"}
+{"create":{"_index":"list", "_type":"books", "_id": "362"}}
+{"author":"SigridNunez","series":"","name":"SalvationCity"}
+{"create":{"_index":"list", "_type":"books", "_id": "363"}}
+{"author":"BenH.Winters&JaneAusten","series":"","name":"SenseandSensibilityandSeaMonsters"}
+{"create":{"_index":"list", "_type":"books", "_id": "364"}}
+{"author":"DavidBrin","series":"","name":"ThePostman"}
+{"create":{"_index":"list", "_type":"books", "_id": "365"}}
+{"author":"AlanBrinkley","series":"","name":"ThePublisher:HenryLuceandHisAmericanCentury"}
+{"create":{"_index":"list", "_type":"books", "_id": "366"}}
+{"author":"DellMagazineAuthors","series":"","name":"AnalogSFF,December2009"}
+{"create":{"_index":"list", "_type":"books", "_id": "367"}}
+{"author":"GastonLeroux","series":"","name":"ThePhantomoftheOpera"}
+{"create":{"_index":"list", "_type":"books", "_id": "368"}}
+{"author":"RichardWiseman","series":"","name":"59Seconds:ThinkaLittle,ChangeaLot"}
+{"create":{"_index":"list", "_type":"books", "_id": "369"}}
+{"author":"DanielH.Pink","series":"","name":"Drive:TheSurprisingTruthAboutWhatMotivatesUs"}
+{"create":{"_index":"list", "_type":"books", "_id": "370"}}
+{"author":"DanielH.Pink","series":"","name":"Awholenewmind:whyright-brainerswillrulethefuture"}
+{"create":{"_index":"list", "_type":"books", "_id": "371"}}
+{"author":"JodiPicoult","series":"","name":"NineteenMinutes"}
+{"create":{"_index":"list", "_type":"books", "_id": "372"}}
+{"author":"JodiPicoult","series":"","name":"MySister'sKeeper"}
+{"create":{"_index":"list", "_type":"books", "_id": "373"}}
+{"author":"JodiPicoult","series":"","name":"KeepingFaith:ANovel"}
+{"create":{"_index":"list", "_type":"books", "_id": "374"}}
+{"author":"JodiPicoult","series":"","name":"SecondGlance"}
+{"create":{"_index":"list", "_type":"books", "_id": "375"}}
+{"author":"JodiPicoult","series":"","name":"PerfectMatch"}
+{"create":{"_index":"list", "_type":"books", "_id": "376"}}
+{"author":"JodiPicoult","series":"","name":"TheTenthCircle:ANovel"}
+{"create":{"_index":"list", "_type":"books", "_id": "377"}}
+{"author":"JodiPicoult","series":"","name":"Handlewithcare:anovel"}
+{"create":{"_index":"list", "_type":"books", "_id": "378"}}
+{"author":"JodiPicoult","series":"","name":"HouseRules"}
+{"create":{"_index":"list", "_type":"books", "_id": "379"}}
+{"author":"JodiPicoult","series":"","name":"ThePact"}
+{"create":{"_index":"list", "_type":"books", "_id": "380"}}
+{"author":"JodiPicoult","series":"","name":"SalemFalls"}
+{"create":{"_index":"list", "_type":"books", "_id": "381"}}
+{"author":"JodiPicoult","series":"","name":"PlainTruth"}
+{"create":{"_index":"list", "_type":"books", "_id": "382"}}
+{"author":"DianeRavitch","series":"","name":"ThedeathandlifeofthegreatAmericanschoolsystem:howtestingandchoiceareunderminingeducation"}
+{"create":{"_index":"list", "_type":"books", "_id": "383"}}
+{"author":"WilliamGolding","series":"","name":"LordoftheFlies"}
+{"create":{"_index":"list", "_type":"books", "_id": "384"}}
+{"author":"WilliamGolding","series":"","name":"Thespire"}
+{"create":{"_index":"list", "_type":"books", "_id": "385"}}
+{"author":"JodiPicoult","series":"","name":"VanishingActs"}
+{"create":{"_index":"list", "_type":"books", "_id": "386"}}
+{"author":"BradyUdall","series":"","name":"TheLonelyPolygamist:ANovel"}
+{"create":{"_index":"list", "_type":"books", "_id": "387"}}
+{"author":"WilliamSansom","series":"","name":"TheBody"}
+{"create":{"_index":"list", "_type":"books", "_id": "388"}}
+{"author":"KenFollett","series":"","name":"Whiteout"}
+{"create":{"_index":"list", "_type":"books", "_id": "389"}}
+{"author":"KenFollett","series":"Kingsbridge","name":"Worldwithoutend"}
+{"create":{"_index":"list", "_type":"books", "_id": "390"}}
+{"author":"KenFollett","series":"CenturyTrilogy","name":"FallofGiants"}
+{"create":{"_index":"list", "_type":"books", "_id": "391"}}
+{"author":"KenFollett","series":"","name":"PaperMoney"}
+{"create":{"_index":"list", "_type":"books", "_id": "392"}}
+{"author":"KenFollett","series":"","name":"TheManfromSt.Petersburg"}
+{"create":{"_index":"list", "_type":"books", "_id": "393"}}
+{"author":"KenFollett","series":"","name":"ThePillarsoftheEarth"}
+{"create":{"_index":"list", "_type":"books", "_id": "394"}}
+{"author":"KenFollett","series":"","name":"Liedownwithlions"}
+{"create":{"_index":"list", "_type":"books", "_id": "395"}}
+{"author":"KenFollett","series":"","name":"TheThirdTwin"}
+{"create":{"_index":"list", "_type":"books", "_id": "396"}}
+{"author":"AlexandraIvy","series":"GuardiansofEternity","name":"EmbracetheDarkness"}
+{"create":{"_index":"list", "_type":"books", "_id": "397"}}
+{"author":"AlexandraIvy","series":"GuardiansofEternity","name":"DarknessUnleashed"}
+{"create":{"_index":"list", "_type":"books", "_id": "398"}}
+{"author":"AlexandraIvy","series":"","name":"DarknessEverlasting"}
+{"create":{"_index":"list", "_type":"books", "_id": "399"}}
+{"author":"AlexandraIvy","series":"GuardiansofEternity","name":"DarknessRevealed"}
+{"create":{"_index":"list", "_type":"books", "_id": "400"}}
+{"author":"AlexandraIvy","series":"","name":"WhenDarknessComes"}
+{"create":{"_index":"list", "_type":"books", "_id": "401"}}
+{"author":"LouiseWener","series":"","name":"TheHalfLifeofStars:ANovel"}
+{"create":{"_index":"list", "_type":"books", "_id": "402"}}
+{"author":"IrisMurdoch","series":"","name":"TheBell"}
+{"create":{"_index":"list", "_type":"books", "_id": "403"}}
+{"author":"TomHarper","series":"DemetriosAskiates","name":"TheMosaicofShadows"}
+{"create":{"_index":"list", "_type":"books", "_id": "404"}}
+{"author":"TomHarper","series":"DemetriosAskiates","name":"SiegeofHeaven"}
+{"create":{"_index":"list", "_type":"books", "_id": "405"}}
+{"author":"JeffSharlet","series":"","name":"Thefamily:thesecretfundamentalismattheheartofAmericanpower"}
+{"create":{"_index":"list", "_type":"books", "_id": "406"}}
+{"author":"AvaGray","series":"Skin","name":"SkinGame"}
+{"create":{"_index":"list", "_type":"books", "_id": "407"}}
+{"author":"VickiLewisThompson&JulieElizabethLeto&KateHoffmann","series":"","name":"AFareToRemember:JustWhistle\\DrivenToDistraction\\TakenForARide"}
+{"create":{"_index":"list", "_type":"books", "_id": "408"}}
+{"author":"RoseLerner","series":"","name":"InforaPenny"}
+{"create":{"_index":"list", "_type":"books", "_id": "409"}}
+{"author":"JohnMiltonCooper","series":"","name":"WoodrowWilson:abiography"}
+{"create":{"_index":"list", "_type":"books", "_id": "410"}}
+{"author":"GlennGreenwald","series":"","name":"ATragicLegacy:HowaGoodVs.EvilMentalityDestroyedtheBushPresidency"}
+{"create":{"_index":"list", "_type":"books", "_id": "411"}}
+{"author":"WhoopiGoldberg","series":"","name":"IsItJustMe?:OrisitNutsOutThere?"}
+{"create":{"_index":"list", "_type":"books", "_id": "412"}}
+{"author":"CindyK.Green","series":"","name":"AFunnyThingHappenedontheWaytoYourWedding"}
+{"create":{"_index":"list", "_type":"books", "_id": "413"}}
+{"author":"JohnC.McManus","series":"","name":"Grunts:InsidetheAmericanInfantryCombatExperience,WorldWarIIThroughIraq"}
+{"create":{"_index":"list", "_type":"books", "_id": "414"}}
+{"author":"ChrisTakemura;LukeS.Crawford","series":"","name":"TheBookofXen"}
+{"create":{"_index":"list", "_type":"books", "_id": "415"}}
+{"author":"JohnLeCarre","series":"","name":"AbsoluteFriends"}
+{"create":{"_index":"list", "_type":"books", "_id": "416"}}
+{"author":"JohnLeCarre","series":"","name":"TheLookingGlassWar"}
+{"create":{"_index":"list", "_type":"books", "_id": "417"}}
+{"author":"B.V.Larson","series":"","name":"MECH"}
+{"create":{"_index":"list", "_type":"books", "_id": "418"}}
+{"author":"KateHoffmann","series":"","name":"ThemightyQuinns:Liam"}
+{"create":{"_index":"list", "_type":"books", "_id": "419"}}
+{"author":"DaveDuncan","series":"King'sBlades","name":"GildedChain"}
+{"create":{"_index":"list", "_type":"books", "_id": "420"}}
+{"author":"DaveDuncan","series":"King'sBlades","name":"Skyofswords"}
+{"create":{"_index":"list", "_type":"books", "_id": "421"}}
+{"author":"EdwinA.Abbott","series":"","name":"Flatland"}
+{"create":{"_index":"list", "_type":"books", "_id": "422"}}
+{"author":"SarahSilverman","series":"","name":"TheBedwetter:StoriesofCourage,Redemption,andPee"}
+{"create":{"_index":"list", "_type":"books", "_id": "423"}}
+{"author":"SergeiLukyanenko","series":"TheNightWatchTetralogy","name":"TheTwilightWatch"}
+{"create":{"_index":"list", "_type":"books", "_id": "424"}}
+{"author":"DavidDosa","series":"","name":"MakingRoundswithOscar:TheExtraordinaryGiftofanOrdinaryCat"}
+{"create":{"_index":"list", "_type":"books", "_id": "425"}}
+{"author":"DubravkaUgrešić&MichaelHenryHeim","series":"","name":"TheMinistryofPain"}
+{"create":{"_index":"list", "_type":"books", "_id": "426"}}
+{"author":"ThomasSteinbeck","series":"","name":"IntheShadowoftheCypress"}
+{"create":{"_index":"list", "_type":"books", "_id": "427"}}
+{"author":"RoseTremain","series":"","name":"Trespass"}
+{"create":{"_index":"list", "_type":"books", "_id": "428"}}
+{"author":"LouBerney","series":"","name":"GutshotStraight"}
+{"create":{"_index":"list", "_type":"books", "_id": "429"}}
+{"author":"G.J.Meyer","series":"","name":"TheTudors:TheCompleteStoryofEngland'sMostNotoriousDynasty"}
+{"create":{"_index":"list", "_type":"books", "_id": "430"}}
+{"author":"Nagarkar&Kiran","series":"","name":"RAVANANDEDDIE"}
+{"create":{"_index":"list", "_type":"books", "_id": "431"}}
+{"author":"KamilaShamsie","series":"","name":"BurntShadows"}
+{"create":{"_index":"list", "_type":"books", "_id": "432"}}
+{"author":"KaitlynO'Connor","series":"","name":"SleepingWiththeEnemy"}
+{"create":{"_index":"list", "_type":"books", "_id": "433"}}
+{"author":"LewisCarroll","series":"Alice'sAdventures","name":"Alice'sAdventuresinWonderlandandThroughtheLooking-Glass"}
+{"create":{"_index":"list", "_type":"books", "_id": "434"}}
+{"author":"JamesLeeBurke","series":"HackberryHolland","name":"RainGods"}
+{"create":{"_index":"list", "_type":"books", "_id": "435"}}
+{"author":"DaveDuncan","series":"King'sBlades","name":"LordoftheFireLands"}
+{"create":{"_index":"list", "_type":"books", "_id": "436"}}
+{"author":"IanC.Esslemont","series":"NovelsoftheMalazanEmpire","name":"NightofKnives:ANoveloftheMalazanEmpire"}
+{"create":{"_index":"list", "_type":"books", "_id": "437"}}
+{"author":"NeroBlanc","series":"CrosswordMysteries","name":"Twodown"}
+{"create":{"_index":"list", "_type":"books", "_id": "438"}}
+{"author":"ZadieSmith","series":"","name":"Thebookofotherpeople"}
+{"create":{"_index":"list", "_type":"books", "_id": "439"}}
+{"author":"ZadieSmith","series":"","name":"Changingmymind:occasionalessays"}
+{"create":{"_index":"list", "_type":"books", "_id": "440"}}
+{"author":"MarkusZusak","series":"","name":"TheBookThief"}
+{"create":{"_index":"list", "_type":"books", "_id": "441"}}
+{"author":"MarkusZusak","series":"","name":"IAmtheMessenger"}
+{"create":{"_index":"list", "_type":"books", "_id": "442"}}
+{"author":"SloaneCrosley","series":"","name":"HowDidYouGetThisNumber"}
+{"create":{"_index":"list", "_type":"books", "_id": "443"}}
+{"author":"AndrewB.King","series":"","name":"WebsiteOptimization"}
+{"create":{"_index":"list", "_type":"books", "_id": "444"}}
+{"author":"SandraBrown","series":"","name":"ToughCustomer:ANovel"}
+{"create":{"_index":"list", "_type":"books", "_id": "445"}}
+{"author":"Plato","series":"","name":"TheRepublic"}
+{"create":{"_index":"list", "_type":"books", "_id": "446"}}
+{"author":"BenSherwood","series":"","name":"TheManWhoAtethe747"}
+{"create":{"_index":"list", "_type":"books", "_id": "447"}}
+{"author":"NeroBlanc","series":"CrosswordMysteries","name":"DeathontheDiagonal"}
+{"create":{"_index":"list", "_type":"books", "_id": "448"}}
+{"author":"RobertShea&RobertAntonWilson","series":"TheIlluminatus!Trilogy","name":"Theilluminatus!trilogy"}
+{"create":{"_index":"list", "_type":"books", "_id": "449"}}
+{"author":"AlexKava","series":"MaggieO'Dell","name":"APerfectEvi"}
+{"create":{"_index":"list", "_type":"books", "_id": "450"}}
+{"author":"AlexKava","series":"MaggieO'Dell","name":"TheSoulCatcher"}
+{"create":{"_index":"list", "_type":"books", "_id": "451"}}
+{"author":"AlexKava","series":"MaggieO'Dell","name":"SplitSecond"}
+{"create":{"_index":"list", "_type":"books", "_id": "452"}}
+{"author":"AlexKava","series":"MaggieO'Dell","name":"BlackFriday"}
+{"create":{"_index":"list", "_type":"books", "_id": "453"}}
+{"author":"AlexKava","series":"MaggieO'Dell","name":"Exposed"}
+{"create":{"_index":"list", "_type":"books", "_id": "454"}}
+{"author":"AlexKava","series":"MaggieO'Dell","name":"AttheStrokeofMadness"}
+{"create":{"_index":"list", "_type":"books", "_id": "455"}}
+{"author":"Aesop","series":"","name":"Aesop'sFables"}
+{"create":{"_index":"list", "_type":"books", "_id": "456"}}
+{"author":"BenSherwood","series":"","name":"CharlieSt.Cloud"}
+{"create":{"_index":"list", "_type":"books", "_id": "457"}}
+{"author":"AnitaShreve","series":"","name":"Resistance:anovel"}
+{"create":{"_index":"list", "_type":"books", "_id": "458"}}
+{"author":"AnitaShreve","series":"","name":"Rescue"}
+{"create":{"_index":"list", "_type":"books", "_id": "459"}}
+{"author":"AnitaShreve","series":"","name":"AChangeinAltitude"}
+{"create":{"_index":"list", "_type":"books", "_id": "460"}}
+{"author":"PeterDavid","series":"SirAproposofNothing","name":"SirAproposofNothing"}
+{"create":{"_index":"list", "_type":"books", "_id": "461"}}
+{"author":"JonathanL.Howard","series":"","name":"JohannesCabaltheNecromancer"}
+{"create":{"_index":"list", "_type":"books", "_id": "462"}}
+{"author":"EvelynCosgrave","series":"","name":"DesperatelySeeking..."}
+{"create":{"_index":"list", "_type":"books", "_id": "463"}}
+{"author":"ChandraHoffman","series":"","name":"Chosen:ANovel"}
+{"create":{"_index":"list", "_type":"books", "_id": "464"}}
+{"author":"AnnCristy","series":"","name":"Treadsoftly"}
+{"create":{"_index":"list", "_type":"books", "_id": "465"}}
+{"author":"AlexKava","series":"MaggieO'Dell","name":"ANecessaryEvil"}
+{"create":{"_index":"list", "_type":"books", "_id": "466"}}
+{"author":"AnneRice","series":"VampireChronicles","name":"InterviewwiththeVampire"}
+{"create":{"_index":"list", "_type":"books", "_id": "467"}}
+{"author":"AnneRice","series":"","name":"Crytoheaven"}
+{"create":{"_index":"list", "_type":"books", "_id": "468"}}
+{"author":"KennethWishnia","series":"","name":"TheFifthServant"}
+{"create":{"_index":"list", "_type":"books", "_id": "469"}}
+{"author":"AnneRice","series":"VampireChronicles","name":"Thetaleofthebodythief"}
+{"create":{"_index":"list", "_type":"books", "_id": "470"}}
+{"author":"AnneRice","series":"VampireChronicles","name":"Bloodcanticle"}
+{"create":{"_index":"list", "_type":"books", "_id": "471"}}
+{"author":"AnneRice","series":"NewTalesoftheVampires","name":"Pandora"}
+{"create":{"_index":"list", "_type":"books", "_id": "472"}}
+{"author":"AnneRice","series":"VampireChronicles","name":"MemnochtheDevil"}
+{"create":{"_index":"list", "_type":"books", "_id": "473"}}
+{"author":"MelanieThernstrom","series":"","name":"ThePainChronicles:Cures,Myths,Mysteries,Prayers,Diaries,BrainScans,Healing,andtheScienceofSuffering"}
+{"create":{"_index":"list", "_type":"books", "_id": "474"}}
+{"author":"AnneRice","series":"VampireChronicles","name":"TheVampireLestat"}
+{"create":{"_index":"list", "_type":"books", "_id": "475"}}
+{"author":"AnneRice","series":"NewTalesoftheVampires","name":"Vittorio,thevampire"}
+{"create":{"_index":"list", "_type":"books", "_id": "476"}}
+{"author":"AnneRice","series":"VampireChronicles","name":"Merrick"}
+{"create":{"_index":"list", "_type":"books", "_id": "477"}}
+{"author":"AnneRice","series":"VampireChronicles","name":"BloodandGold"}
+{"create":{"_index":"list", "_type":"books", "_id": "478"}}
+{"author":"AnneRice","series":"TheSongsoftheSeraphim","name":"AngelTime:TheSongsoftheSeraphim"}
+{"create":{"_index":"list", "_type":"books", "_id": "479"}}
+{"author":"AnneRice","series":"VampireChronicles","name":"Thequeenofthedamned"}
+{"create":{"_index":"list", "_type":"books", "_id": "480"}}
+{"author":"AnneRice","series":"LivesoftheMayfairWitches","name":"Taltos"}
+{"create":{"_index":"list", "_type":"books", "_id": "481"}}
+{"author":"AnneRice","series":"VampireChronicles","name":"ThevampireArmand"}
+{"create":{"_index":"list", "_type":"books", "_id": "482"}}
+{"author":"AnneRice&A.N.Roquelaure","series":"SleepingBeautyTrilogy","name":"TheclaimingofSleepingBeauty"}
+{"create":{"_index":"list", "_type":"books", "_id": "483"}}
+{"author":"AnneRice","series":"VampireChronicles","name":"BlackwoodFarm"}
+{"create":{"_index":"list", "_type":"books", "_id": "484"}}
+{"author":"AnneRice","series":"LivesoftheMayfairWitches","name":"Lasher"}
+{"create":{"_index":"list", "_type":"books", "_id": "485"}}
+{"author":"AnneRice","series":"","name":"ServantoftheBones"}
+{"create":{"_index":"list", "_type":"books", "_id": "486"}}
+{"author":"AnneRice","series":"TheSongsoftheSeraphim","name":"OfLoveandEvil"}
+{"create":{"_index":"list", "_type":"books", "_id": "487"}}
+{"author":"B.K.Evenson","series":"","name":"DeadSpace:Martyr"}
+{"create":{"_index":"list", "_type":"books", "_id": "488"}}
+{"author":"TheEndofGlobalization;LessonsfromtheGreatDepression(2001)","series":"","name":"James"}
+{"create":{"_index":"list", "_type":"books", "_id": "489"}}
+{"author":"JohnKennedyToole","series":"","name":"Aconfederacyofdunces"}
+{"create":{"_index":"list", "_type":"books", "_id": "490"}}
+{"author":"AnneRice","series":"LivesoftheMayfairWitches","name":"Thewitchinghour"}
+{"create":{"_index":"list", "_type":"books", "_id": "491"}}
+{"author":"AnneRice","series":"","name":"TheFeastofAllSaints"}
+{"create":{"_index":"list", "_type":"books", "_id": "492"}}
+{"author":"DavaSobel&WilliamJ.H.Andrewes","series":"","name":"TheIllustratedLongitude:TheTrueStoryofaLoneGeniusWhoSolvedtheGreatestScientificProblemofHisTime"}
+{"create":{"_index":"list", "_type":"books", "_id": "493"}}
+{"author":"JoeGores","series":"","name":"Spade&Archer:theprequeltoDashiellHammett'sThemaltesefalcon"}
+{"create":{"_index":"list", "_type":"books", "_id": "494"}}
+{"author":"CliveCussler","series":"DirkPitt","name":"FloodTide"}
+{"create":{"_index":"list", "_type":"books", "_id": "495"}}
+{"author":"CliveCussler","series":"DirkPitt","name":"ShockWave"}
+{"create":{"_index":"list", "_type":"books", "_id": "496"}}
+{"author":"CliveCussler","series":"DirkPitt","name":"NightProbe!"}
+{"create":{"_index":"list", "_type":"books", "_id": "497"}}
+{"author":"CliveCussler","series":"NUMAFiles","name":"TheNumaFiles1.Serpent."}
+{"create":{"_index":"list", "_type":"books", "_id": "498"}}
+{"author":"CliveCussler","series":"","name":"Vixen"}
+{"create":{"_index":"list", "_type":"books", "_id": "499"}}
+{"author":"ElitaFaithDaniels","series":"TreeofLife","name":"TreeofLife"}
+{"create":{"_index":"list", "_type":"books", "_id": "500"}}
+{"author":"CliveCussler&PaulKemprecos","series":"NUMAFiles","name":"WhiteDeath"}
+{"create":{"_index":"list", "_type":"books", "_id": "501"}}
+{"author":"CliveCussler&PaulKemprecos","series":"NUMAFiles","name":"Thenavigator:anovelfromtheNUMAfiles"}
+{"create":{"_index":"list", "_type":"books", "_id": "502"}}
+{"author":"CliveCussler","series":"DirkPitt","name":"PacificVortex!"}
+{"create":{"_index":"list", "_type":"books", "_id": "503"}}
+{"author":"CliveCussler","series":"DirkPitt","name":"RaisetheTitanic!"}
+{"create":{"_index":"list", "_type":"books", "_id": "504"}}
+{"author":"CliveCussler&PaulKemprecos","series":"NUMAFiles","name":"Medusa"}
+{"create":{"_index":"list", "_type":"books", "_id": "505"}}
+{"author":"CliveCussler","series":"DirkPitt","name":"Dragon"}
+{"create":{"_index":"list", "_type":"books", "_id": "506"}}
+{"author":"CliveCussler","series":"DirkPitt","name":"DeepSix"}
+{"create":{"_index":"list", "_type":"books", "_id": "507"}}
+{"author":"CliveCussler","series":"DirkPitt","name":"AtlantisFound"}
+{"create":{"_index":"list", "_type":"books", "_id": "508"}}
+{"author":"CliveCussler","series":"","name":"Iceberg"}
+{"create":{"_index":"list", "_type":"books", "_id": "509"}}
+{"author":"CliveCussler","series":"DirkPitt","name":"IncaGold"}
+{"create":{"_index":"list", "_type":"books", "_id": "510"}}
+{"author":"CliveCussler&PaulKemprecos","series":"NUMAFiles","name":"LostCity"}
+{"create":{"_index":"list", "_type":"books", "_id": "511"}}
+{"author":"CliveCussler","series":"DirkPitt","name":"SaharaTradePaper"}
+{"create":{"_index":"list", "_type":"books", "_id": "512"}}
+{"author":"CliveCussler","series":"DirkPitt","name":"Cyclops"}
+{"create":{"_index":"list", "_type":"books", "_id": "513"}}
+{"author":"CliveCussler&DirkCussler","series":"DirkPitt","name":"BlackWind"}
+{"create":{"_index":"list", "_type":"books", "_id": "514"}}
+{"author":"CliveCussler&PaulKemprecos","series":"NUMAFiles","name":"FireIce"}
+{"create":{"_index":"list", "_type":"books", "_id": "515"}}
+{"author":"CliveCussler&PaulKemprecos","series":"NUMAFiles","name":"PolarShift"}
+{"create":{"_index":"list", "_type":"books", "_id": "516"}}
+{"author":"CliveCussler","series":"DirkPitt","name":"ValhallaRising"}
+{"create":{"_index":"list", "_type":"books", "_id": "517"}}
+{"author":"CliveCussler","series":"DirkPitt","name":"Treasure"}
+{"create":{"_index":"list", "_type":"books", "_id": "518"}}
+{"author":"CliveCussler","series":"DirkPitt","name":"TheMediterraneanCaper"}
+{"create":{"_index":"list", "_type":"books", "_id": "519"}}
+{"author":"CliveCussler","series":"DirkPitt","name":"TrojanOdyssey"}
+{"create":{"_index":"list", "_type":"books", "_id": "520"}}
+{"author":"RobertaBrandesGratz","series":"","name":"TheBattleforGotham:NewYorkintheShadowofRobertMosesandJaneJacobs"}
+{"create":{"_index":"list", "_type":"books", "_id": "521"}}
+{"author":"ElisabethNaughton","series":"StolenTrilogy","name":"StolenHeat"}
+{"create":{"_index":"list", "_type":"books", "_id": "522"}}
+{"author":"ElisabethNaughton","series":"EternalGuardians","name":"Marked"}
+{"create":{"_index":"list", "_type":"books", "_id": "523"}}
+{"author":"ElisabethNaughton","series":"StolenTrilogy","name":"StolenFury"}
+{"create":{"_index":"list", "_type":"books", "_id": "524"}}
+{"author":"CliveCussler&PaulKemprecos","series":"","name":"BlueGold"}
+{"create":{"_index":"list", "_type":"books", "_id": "525"}}
+{"author":"DavidGrann","series":"","name":"TheLostCityofZ:ATaleofDeadlyObsessionintheAmazon"}
+{"create":{"_index":"list", "_type":"books", "_id": "526"}}
+{"author":"JoyceCarolOates&ElaineShowalter","series":"","name":"ExpensivePeople"}
+{"create":{"_index":"list", "_type":"books", "_id": "527"}}
+{"author":"RobertT.Kiyosaki&SharonL.Lechter","series":"","name":"RichDadPoorDadforTeens:TheSecretsAboutMoney--ThatYouDon'tLearninSchool!"}
+{"create":{"_index":"list", "_type":"books", "_id": "528"}}
+{"author":"JanSiegel","series":"FernCapel","name":"Thewitchqueen"}
+{"create":{"_index":"list", "_type":"books", "_id": "529"}}
+{"author":"JanSiegel","series":"FernCapel","name":"TheDragonCharmer"}
+{"create":{"_index":"list", "_type":"books", "_id": "530"}}
+{"author":"SarahPinborough","series":"Torchwood","name":"IntotheSilence"}
+{"create":{"_index":"list", "_type":"books", "_id": "531"}}
+{"author":"DanVining","series":"","name":"AmongtheLiving"}
+{"create":{"_index":"list", "_type":"books", "_id": "532"}}
+{"author":"JerryAhern","series":"","name":"WritteninTime"}
+{"create":{"_index":"list", "_type":"books", "_id": "533"}}
+{"author":"JeffLindsay","series":"Dexter","name":"DarklyDreamingDexter"}
+{"create":{"_index":"list", "_type":"books", "_id": "534"}}
+{"author":"JeffLindsay","series":"Dexter","name":"DexterIsDelicious"}
+{"create":{"_index":"list", "_type":"books", "_id": "535"}}
+{"author":"JeffLindsay","series":"Dexter","name":"DexterbyDesign"}
+{"create":{"_index":"list", "_type":"books", "_id": "536"}}
+{"author":"JeffLindsay","series":"Dexter","name":"DexterintheDark"}
+{"create":{"_index":"list", "_type":"books", "_id": "537"}}
+{"author":"JeffLindsay","series":"Dexter","name":"DearlyDevotedDexter"}
+{"create":{"_index":"list", "_type":"books", "_id": "538"}}
+{"author":"RhysBowen","series":"ConstableEvans","name":"EvanlyBodies"}
+{"create":{"_index":"list", "_type":"books", "_id": "539"}}
+{"author":"CamillaGibb","series":"","name":"SweetnessintheBelly"}
+{"create":{"_index":"list", "_type":"books", "_id": "540"}}
+{"author":"RhysBowen","series":"ConstableEvans","name":"EvanandElle"}
+{"create":{"_index":"list", "_type":"books", "_id": "541"}}
+{"author":"RhysBowen","series":"MollyMurphyMysteries","name":"TellMe,PrettyMaiden"}
+{"create":{"_index":"list", "_type":"books", "_id": "542"}}
+{"author":"RhysBowen","series":"MollyMurphyMysteries","name":"TheLastIllusion"}
+{"create":{"_index":"list", "_type":"books", "_id": "543"}}
+{"author":"DavidGrann","series":"","name":"TheDevilandSherlockHolmes:TalesofMurder,Madness,andObsession"}
+{"create":{"_index":"list", "_type":"books", "_id": "544"}}
+{"author":"RhysBowen","series":"ARoyalSpynessMystery","name":"RoyalBlood"}
+{"create":{"_index":"list", "_type":"books", "_id": "545"}}
+{"author":"DavidMoody","series":"Hater","name":"DogBlood"}
+{"create":{"_index":"list", "_type":"books", "_id": "546"}}
+{"author":"RhysBowen","series":"MollyMurphyMysteries","name":"FortheLoveofMike"}
+{"create":{"_index":"list", "_type":"books", "_id": "547"}}
+{"author":"GaryChapman","series":"","name":"The5LoveLanguages:TheSecrettoLoveThatLasts"}
+{"create":{"_index":"list", "_type":"books", "_id": "548"}}
+{"author":"AdeleParks","series":"","name":"GameOver"}
+{"create":{"_index":"list", "_type":"books", "_id": "549"}}
+{"author":"RhysBowen","series":"MollyMurphyMysteries","name":"InaGildedCage"}
+{"create":{"_index":"list", "_type":"books", "_id": "550"}}
+{"author":"MichaelConnelly","series":"JackMcEvoy","name":"Thepoet"}
+{"create":{"_index":"list", "_type":"books", "_id": "551"}}
+{"author":"MichaelConnelly","series":"HarryBosch","name":"TheReversal"}
+{"create":{"_index":"list", "_type":"books", "_id": "552"}}
+{"author":"EmperorofRomeMarcusAurelius","series":"","name":"Meditations"}
+{"create":{"_index":"list", "_type":"books", "_id": "553"}}
+{"author":"MichaelConnelly","series":"","name":"Crimebeat:adecadeofcoveringcopsandkillers"}
+{"create":{"_index":"list", "_type":"books", "_id": "554"}}
+{"author":"AdeleParks","series":"","name":"LoveLies"}
+{"create":{"_index":"list", "_type":"books", "_id": "555"}}
+{"author":"MichaelConnelly","series":"HarryBosch","name":"EchoPark:anovel"}
+{"create":{"_index":"list", "_type":"books", "_id": "556"}}
+{"author":"MichaelConnelly","series":"","name":"TheBrassVerdict"}
+{"create":{"_index":"list", "_type":"books", "_id": "557"}}
+{"author":"MichaelConnelly","series":"HarryBosch","name":"Theblackecho"}
+{"create":{"_index":"list", "_type":"books", "_id": "558"}}
+{"author":"MichaelConnelly","series":"HarryBosch","name":"TheBlackIce"}
+{"create":{"_index":"list", "_type":"books", "_id": "559"}}
+{"author":"MichaelConnelly","series":"JackMcEvoy","name":"TheScarecrow"}
+{"create":{"_index":"list", "_type":"books", "_id": "560"}}
+{"author":"MichaelConnelly","series":"CassieBlack","name":"VoidMoon"}
+{"create":{"_index":"list", "_type":"books", "_id": "561"}}
+{"author":"MichaelConnelly","series":"HarryBosch","name":"CityofBones"}
+{"create":{"_index":"list", "_type":"books", "_id": "562"}}
+{"author":"MichaelConnelly","series":"HarryBosch","name":"Thelastcoyote"}
+{"create":{"_index":"list", "_type":"books", "_id": "563"}}
+{"author":"MichaelConnelly","series":"MickeyHaller","name":"TheLincolnlawyer"}
+{"create":{"_index":"list", "_type":"books", "_id": "564"}}
+{"author":"MichaelConnelly","series":"HarryBosch","name":"Trunkmusic"}
+{"create":{"_index":"list", "_type":"books", "_id": "565"}}
+{"author":"ShunryūSuzuki;TrudyDixon;RichardBaker","series":"","name":"ZenMind,Beginner'sMind"}
+{"create":{"_index":"list", "_type":"books", "_id": "566"}}
+{"author":"JamesHerbert","series":"","name":"'48"}
+{"create":{"_index":"list", "_type":"books", "_id": "567"}}
+{"author":"ConnIggulden","series":"Conqueror","name":"Genghis:BonesoftheHills:ANovel"}
+{"create":{"_index":"list", "_type":"books", "_id": "568"}}
+{"author":"ConnIggulden","series":"Emperor","name":"Emperor:TheDeathofKings"}
+{"create":{"_index":"list", "_type":"books", "_id": "569"}}
+{"author":"ConnIggulden","series":"Emperor","name":"Emperor:Thefieldofswords"}
+{"create":{"_index":"list", "_type":"books", "_id": "570"}}
+{"author":"ConnIggulden","series":"Conqueror","name":"Genghis:BirthofanEmpire"}
+{"create":{"_index":"list", "_type":"books", "_id": "571"}}
+{"author":"ConnIggulden","series":"","name":"Blackwater"}
+{"create":{"_index":"list", "_type":"books", "_id": "572"}}
+{"author":"MichaelConnelly","series":"HarryBosch","name":"Lostlight"}
+{"create":{"_index":"list", "_type":"books", "_id": "573"}}
+{"author":"ConnIggulden","series":"Emperor","name":"Emperor:TheGatesofRome"}
+{"create":{"_index":"list", "_type":"books", "_id": "574"}}
+{"author":"ConnIggulden","series":"Emperor","name":"Emperor:TheGodsofWar"}
+{"create":{"_index":"list", "_type":"books", "_id": "575"}}
+{"author":"ConnIggulden","series":"Conqueror","name":"Genghis:EmpireofSilver"}
+{"create":{"_index":"list", "_type":"books", "_id": "576"}}
+{"author":"IngridBetancourt","series":"","name":"EvenSilenceHasanEnd:MySixYearsofCaptivityintheColombianJungle"}
+{"create":{"_index":"list", "_type":"books", "_id": "577"}}
+{"author":"JamesW.Nichol","series":"","name":"Transgression:ANovelofLoveandWar"}
+{"create":{"_index":"list", "_type":"books", "_id": "578"}}
+{"author":"MatthewStokoe","series":"","name":"EmptyMile"}
+{"create":{"_index":"list", "_type":"books", "_id": "579"}}
+{"author":"MichaelConnelly","series":"HarryBosch","name":"Theconcreteblonde"}
+{"create":{"_index":"list", "_type":"books", "_id": "580"}}
+{"author":"NicholasSparks","series":"TheCalhounFamily","name":"TheNotebook"}
+{"create":{"_index":"list", "_type":"books", "_id": "581"}}
+{"author":"NicholasSparks","series":"","name":"AWalktoRemember"}
+{"create":{"_index":"list", "_type":"books", "_id": "582"}}
+{"author":"ConnIggulden","series":"Conqueror","name":"Genghis:LordsoftheBow"}
+{"create":{"_index":"list", "_type":"books", "_id": "583"}}
+{"author":"NicholasSparks","series":"","name":"DearJohn"}
+{"create":{"_index":"list", "_type":"books", "_id": "584"}}
+{"author":"NicholasSparks","series":"","name":"SafeHaven"}
+{"create":{"_index":"list", "_type":"books", "_id": "585"}}
+{"author":"NicholasSparks","series":"TheCalhounFamily","name":"TheWedding"}
+{"create":{"_index":"list", "_type":"books", "_id": "586"}}
+{"author":"NicholasSparks","series":"","name":"MessageinaBottle"}
+{"create":{"_index":"list", "_type":"books", "_id": "587"}}
+{"author":"NicholasSparks","series":"JeremyMarsh","name":"TrueBeliever"}
+{"create":{"_index":"list", "_type":"books", "_id": "588"}}
+{"author":"NicholasSparks","series":"","name":"ABendintheRoad"}
+{"create":{"_index":"list", "_type":"books", "_id": "589"}}
+{"author":"NicholasSparks","series":"","name":"TheLastSong"}
+{"create":{"_index":"list", "_type":"books", "_id": "590"}}
+{"author":"NicholasSparks","series":"JeremyMarsh","name":"AtFirstSight"}
+{"create":{"_index":"list", "_type":"books", "_id": "591"}}
+{"author":"MarilynnGriffith","series":"Life,FaithandGettingItRight","name":"MadeofHonor"}
+{"create":{"_index":"list", "_type":"books", "_id": "592"}}
+{"author":"DianeSetterfield","series":"","name":"Thethirteenthtale:anovel"}
+{"create":{"_index":"list", "_type":"books", "_id": "593"}}
+{"author":"MarieOsmond&MarciaWilkie","series":"","name":"MightasWellLaughaboutItNow"}
+{"create":{"_index":"list", "_type":"books", "_id": "594"}}
+{"author":"TsunetomoYamamoto&WilliamScottWilson","series":"","name":"Hagakure:thebookofthesamurai"}
+{"create":{"_index":"list", "_type":"books", "_id": "595"}}
+{"author":"NicholasSparks","series":"","name":"NightsinRodanthe"}
+{"create":{"_index":"list", "_type":"books", "_id": "596"}}
+{"author":"JohnM.Barry","series":"","name":"Risingtide:thegreatMississippifloodof1927andhowitchangedAmerica"}
+{"create":{"_index":"list", "_type":"books", "_id": "597"}}
+{"author":"NicholasSparks","series":"","name":"TheLuckyOne"}
+{"create":{"_index":"list", "_type":"books", "_id": "598"}}
+{"author":"DianaDuncan","series":"","name":"BulletproofBride"}
+{"create":{"_index":"list", "_type":"books", "_id": "599"}}
+{"author":"JackMcDevitt","series":"","name":"EternityRoad"}
+{"create":{"_index":"list", "_type":"books", "_id": "600"}}
+{"author":"JackMcDevitt","series":"","name":"Moonfall"}
